@@ -1,0 +1,6 @@
+Keras
+opencv_python
+numpy
+streamlit
+
+-e .
